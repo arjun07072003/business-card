@@ -1,0 +1,39 @@
+
+.card{
+    border: 1px dotted blue;
+    padding: 20px;
+    display: flex;
+    margin: 20px auto;
+    justify-content: space-evenly ;
+    width: 500px;
+    background: lightcyan;
+    border-bottom: 5px solid blue;
+}
+.image{
+    display: block;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 200px;
+    border: 1px dotted blue;
+    border-radius: 20px;
+}
+.blueborder{
+    font-style: italic  ;
+}
+.details{
+    text-align: center;
+    border: 1px dotted blue;
+    padding: 5px;
+    margin: auto;
+    border-radius: 20px;
+   
+}
+.flag{
+    height: 150px;
+    border-radius: 100px;
+    width: 150px;
+    color: black;
+}
